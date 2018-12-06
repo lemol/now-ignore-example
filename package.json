@@ -1,0 +1,8 @@
+{
+  "name": "now-ignore-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lemol/now-ignore-example",
+  "author": "Leza Lutonda <lemol-c@hotmail.com>",
+  "license": "MIT"
+}
