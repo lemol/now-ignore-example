@@ -1,1 +1,3 @@
 # now-ignore-example
+
+* test
